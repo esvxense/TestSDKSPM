@@ -1,0 +1,209 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SimpleMath",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SimpleAlgorithms",
+        "printedName": "SimpleAlgorithms",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SimpleAlgorithms",
+                "printedName": "SimpleMath.SimpleAlgorithms",
+                "usr": "s:10SimpleMath0A10AlgorithmsC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:10SimpleMath0A10AlgorithmsCACycfc",
+            "mangledName": "$s10SimpleMath0A10AlgorithmsCACycfc",
+            "moduleName": "SimpleMath",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "fibonacci",
+            "printedName": "fibonacci(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10SimpleMath0A10AlgorithmsC9fibonacciyS2iF",
+            "mangledName": "$s10SimpleMath0A10AlgorithmsC9fibonacciyS2iF",
+            "moduleName": "SimpleMath",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "factorial",
+            "printedName": "factorial(n:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10SimpleMath0A10AlgorithmsC9factorial1nS2i_tF",
+            "mangledName": "$s10SimpleMath0A10AlgorithmsC9factorial1nS2i_tF",
+            "moduleName": "SimpleMath",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:10SimpleMath0A10AlgorithmsC",
+        "mangledName": "$s10SimpleMath0A10AlgorithmsC",
+        "moduleName": "SimpleMath",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/esvxense\/Desktop\/Development\/Work\/SimpleMath\/SimpleMath\/SimpleAlgorithms.swift",
+      "kind": "IntegerLiteral",
+      "offset": 235,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/esvxense\/Desktop\/Development\/Work\/SimpleMath\/SimpleMath\/SimpleAlgorithms.swift",
+      "kind": "IntegerLiteral",
+      "offset": 253,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/esvxense\/Desktop\/Development\/Work\/SimpleMath\/SimpleMath\/SimpleAlgorithms.swift",
+      "kind": "IntegerLiteral",
+      "offset": 273,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/esvxense\/Desktop\/Development\/Work\/SimpleMath\/SimpleMath\/SimpleAlgorithms.swift",
+      "kind": "IntegerLiteral",
+      "offset": 303,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/esvxense\/Desktop\/Development\/Work\/SimpleMath\/SimpleMath\/SimpleAlgorithms.swift",
+      "kind": "IntegerLiteral",
+      "offset": 455,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/esvxense\/Desktop\/Development\/Work\/SimpleMath\/SimpleMath\/SimpleAlgorithms.swift",
+      "kind": "IntegerLiteral",
+      "offset": 472,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/esvxense\/Desktop\/Development\/Work\/SimpleMath\/SimpleMath\/SimpleAlgorithms.swift",
+      "kind": "IntegerLiteral",
+      "offset": 489,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/esvxense\/Desktop\/Development\/Work\/SimpleMath\/SimpleMath\/SimpleAlgorithms.swift",
+      "kind": "IntegerLiteral",
+      "offset": 682,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/esvxense\/Desktop\/Development\/Work\/SimpleMath\/SimpleMath\/SimpleAlgorithms.swift",
+      "kind": "IntegerLiteral",
+      "offset": 700,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/esvxense\/Desktop\/Development\/Work\/SimpleMath\/SimpleMath\/SimpleAlgorithms.swift",
+      "kind": "IntegerLiteral",
+      "offset": 720,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/esvxense\/Desktop\/Development\/Work\/SimpleMath\/SimpleMath\/SimpleAlgorithms.swift",
+      "kind": "IntegerLiteral",
+      "offset": 750,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/esvxense\/Desktop\/Development\/Work\/SimpleMath\/SimpleMath\/SimpleAlgorithms.swift",
+      "kind": "IntegerLiteral",
+      "offset": 902,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/esvxense\/Desktop\/Development\/Work\/SimpleMath\/SimpleMath\/SimpleAlgorithms.swift",
+      "kind": "IntegerLiteral",
+      "offset": 919,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/esvxense\/Desktop\/Development\/Work\/SimpleMath\/SimpleMath\/SimpleAlgorithms.swift",
+      "kind": "IntegerLiteral",
+      "offset": 936,
+      "length": 1,
+      "value": "1"
+    }
+  ]
+}
